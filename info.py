@@ -43,16 +43,16 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ashupatil62611:VgARwE1anbWea4lr@cluster0.v4mthte.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ashupatil62611:DH6bdsudNKz9oSgH@cluster0.zqbv07r.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Telegram_filesg")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_filesg')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '70d5d2a1582bf3b6bd957cd016c865b69cae0fe6')
-SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'ziplinker.net')
-SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '70d5d2a1582bf3b6bd957cd016c865b69cae0fe6')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '184fd3a38855d49ca0574e06dfe12424493bdd4a')
+SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'paisakamalo.in')
+SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '184fd3a38855d49ca0574e06dfe12424493bdd4a')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
