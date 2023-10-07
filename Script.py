@@ -156,13 +156,15 @@ Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 
 ›› Step 1: Add This bot to your group as an admin..
 
-›› Step 2: If you don't Using any shortner website then make account first on ziplinker.net (You can also use other link shortner website).
+›› Step 2: If you don't Using any shortner website then make account first on ziplinker.net/ref/ashish (You can also use other link shortner website).
 
-›› Step 3: Copy your API from website and then, simply set your website and API Using the
-/set_shortner command
+›› Step 3: Copy your API from website and then, simply set your website and API Using the /shortlink command! 
 
-› Like this :  /set_shortner ziplinker.net b4d510e7b1e56da54f43c9e27569ee0a281121db
+⇉ /shortlink {your_shortener_website} {your_shortener_api} 
 
+♻️ ᴇxᴀᴍᴘʟᴇ
+
+/shortlink ziplinker.net ed5b8581d2fe20fe5cfe9fd53d8676a354e67d82
 
 ★ This bot will automatically converts links with Your Api and will provide your links.
 
