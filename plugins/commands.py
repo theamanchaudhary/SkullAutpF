@@ -162,7 +162,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
+                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
+                          InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
                        ]
                         ]
                     )
@@ -323,7 +324,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
+                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
                    ]
                     ]
                 )
@@ -378,7 +380,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
+                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
                    ]
                     ]
                 )
@@ -432,7 +435,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
+              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
+              InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
            ]
             ]
         )
