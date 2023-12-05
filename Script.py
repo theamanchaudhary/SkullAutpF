@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/KILLERNEGI">NEGI</a></b> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/biswajit200000">Mr Ranger</a></b> 😏</b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/KILLERNEGI'>NEGI</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/biswajit200000'>Mr Ranger</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -150,25 +150,24 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://ziplinker.net> ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
-
-Now You can start earning 💸 money today with our Simple and easy-to-use bot!
-
-›› Step 1: Add This bot to your group as an admin..
-
-›› Step 2: If you don't Using any shortner website then make account first on ziplinker.net/ref/ashish (You can also use other link shortner website).
-
-›› Step 3: Copy your API from website and then, simply set your website and API Using the /shortlink command! 
+<b>ʜᴏᴡ ᴛᴏ ᴀᴅᴅ sʜᴏʀᴛɴᴇʀ 
+''ziplinker.net'''
 
 ⇉ /shortlink {your_shortener_website} {your_shortener_api} 
 
 ♻️ ᴇxᴀᴍᴘʟᴇ
 
-/shortlink ziplinker.net ed5b8581d2fe20fe5cfe9fd53d8676a354e67d82
+/shortlink ziplinker.net f9bba04afcb4d8c541d09f9e3f07dddee2ac894e
+
+*Check Command First*
+/Shortlink  in @Royal_72_bot this bot
 
 ★ This bot will automatically converts links with Your Api and will provide your links.
 
-★ Don't wait any longer to start earning money from your telegram group. Add our bot today and start making money 💰! </b>
+Trusted Shortner ™
+https://ziplinker.net/ref/biswajit1234
+
+I will suggest ziplinker because it is only 1 page shortner </b>
 """
 
     REQINFO = """
