@@ -139,7 +139,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⛔️ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⛔️', url=f'https://t.me/{SUPPORT_CHAT}'),
+                          InlineKeyboardButton('⛔️ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⛔️', url=f'https://t.me/biswajitmoviesfile'),
                           InlineKeyboardButton('🫨ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ]
                         ]
@@ -156,7 +156,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs ᴢᴏɴᴇ 🍿', url=f"https://t.me/moviebazar113")
+                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
                        ]
                         ]
                     )
@@ -317,7 +317,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs ᴢᴏɴᴇ 🍿', url=f"https://t.me/moviebazar113")
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
                    ]
                     ]
                 )
@@ -372,7 +372,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs ᴢᴏɴᴇ 🍿', url=f"https://t.me/moviebazar113")
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
                    ]
                     ]
                 )
@@ -426,7 +426,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs ᴢᴏɴᴇ 🍿', url=f"https://t.me/moviebazar113")
+              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile")
            ]
             ]
         )
