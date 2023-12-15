@@ -155,7 +155,7 @@ Nᴀᴍᴇ - {}"""
 /shortlink ziplinker.net (api)
 
 *Check Command First*
-/Shortlink  in @Royal_72_bot this bot
+/Shortlink to this bot
 
 ★ This bot will automatically converts links with Your Api and will provide your links.
 
