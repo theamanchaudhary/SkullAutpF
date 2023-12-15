@@ -2,9 +2,7 @@ class script(object):
     START_TXT = """<b>ʜᴇʟᴏ {}
     
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
-ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
-
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/deepanshu_lamba">Deepanshu</a></b> 😏</b>"""
+ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ </b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
