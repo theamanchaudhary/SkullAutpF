@@ -40,8 +40,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest'),
-                    InlineKeyboardButton('⚡️Movie Group', url=f'https://t.me/biswajitmoviesfile')
+                    InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc'),
+                    InlineKeyboardButton('⚡️Movie Group', url=f'https://t.me/+ze3mC6hZ5Oo0YWM9')
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -88,8 +88,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest'),
-                    InlineKeyboardButton('⚡️Movie Group', url=f'https://t.me/biswajitmoviesfile')
+                    InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc'),
+                    InlineKeyboardButton('⚡️Movie Group', url=f'https://t.me/+ze3mC6hZ5Oo0YWM9')
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -145,7 +145,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⛔️ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⛔️', url=f'https://t.me/biswajitmoviesfile'),
+                          InlineKeyboardButton('⛔️ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⛔️', url=f'https://t.me/+ze3mC6hZ5Oo0YWM9'),
                           InlineKeyboardButton('🫨ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ]
                         ]
@@ -162,8 +162,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
-                          InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
+                          InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/+ze3mC6hZ5Oo0YWM9"),
+                          InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc')
                        ]
                         ]
                     )
@@ -324,8 +324,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
-                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/+ze3mC6hZ5Oo0YWM9"),
+                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc')
                    ]
                     ]
                 )
@@ -380,8 +380,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
-                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
+                      InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/+ze3mC6hZ5Oo0YWM9"),
+                      InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc')
                    ]
                     ]
                 )
@@ -435,8 +435,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/biswajitmoviesfile"),
-              InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/backupchannelmoviesrequest')
+              InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇs Group 🍿', url=f"https://t.me/+ze3mC6hZ5Oo0YWM9"),
+              InlineKeyboardButton('🍂UPDATE🍂', url=f'https://t.me/HindiMovies_cc')
            ]
             ]
         )
